@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/t-kelly/shopipoints.com.git"
+    "url": "git+https://github.com/jansorianotraffix/shopipoints.com.git"
   },
   "keywords": [
     "Shopify",
-    "KellyVaughn"
+    "JanSoriano"
   ],
-  "author": "The Kellys",
+  "author": "The Jantraffix",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/t-kelly/shopipoints.com/issues"
+    "url": "https://github.com/jansorianotraffix/shopipoints.com/issues"
   },
-  "homepage": "https://github.com/t-kelly/shopipoints.com#readme"
+  "homepage": "https://github.com/jansorianotraffix/shopipoints.com#readme"
 }
